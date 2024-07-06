@@ -1,0 +1,87 @@
+﻿ID,blog_id,uid,title,slug,alias,published date,last modified,all tags,publish,make discoverable,is page,content,canonical url,meta description,meta image,lang,class name,first published at,upvotes,score,hidden,pinned,deprioritise
+84849,32624,ATaWmdYLgQMRkfJytXZo,About,about,,2024-05-28T22:19:00+00:00,2024-07-06T21:27:16.283817+00:00,[],True,False,True,"## About Me
+
+I am a Researcher in the Universal AI team at DeepMind, London (UK). Our team works on understanding the foundations of general intelligence, researching the mathematical and algorithmic foundations of sequential decision makers. I am interested in understanding the fundamental computational mechanisms underlying today's AI systems, and how to improve their safety and reliability. Most recently I got interested in the fundamentals of how to unambiguously tell AI systems what to achieve, and how to go about it (and how *not* to go about it; which touches upon questions of social norms and ethics). For a summary and pointers to more in-depth discussions on my blog see my [Research](/research/) pages. 
+
+
+### Mini-CV
+| | |
+|:-----------|:---|
+| <nobr>Since 2022:</nobr> | Research Scientist, *Universal AI Team*, DeepMind. |
+| <nobr>2018-2022:</nobr> | Research Scientist, *Safety Analysis Team*, DeepMind. |
+| <nobr>2016-2018:</nobr> | Research Scientist, *Deep Learning Perception group*, Bosch Center for AI. |
+| <nobr>2012-2016:</nobr> | PhD candidate, *Sensorimotor Learning and Decision-Making group*, Max Planck Institutes for Biological Cybernetics and Intelligent Systems. |
+| <nobr>2006-2012:</nobr> | BSc & MSc, *Telematics*, Graz University of Technology. |
+
+### Links
+- 🎓 [Google Scholar](tab:https://scholar.google.com/citations?user=peNTK9oAAAAJ&hl=en) for an up-to-date publication list
+- 💼 [My CV] (coming soon)
+- 🐙 [GitHub](tab:https://github.com/tgenewein)
+- 📨 [tim܂genewein﹫gmail܂com](tab:mailto:type_it_dont_copy_paste@nospam.com) (retype, don't copy&paste)
+
+### Academic service
+I am an active [action editor](tab:https://jmlr.org/tmlr/editorial-board.html) and reviewer for TMLR, area chair for [UAI](tab:https://www.auai.org/) ('21, '22, '23, '24) and the AAAI Safe and Robust AI track ('23, '24), and a member of the [ELLIS Society](tab:https://ellis.eu/members). I regularly review for ML conferences, including NeurIPS, ICLR, ICML, UAI, AAAI, AISTATS, and have received top reviewer certifications for NeurIPS ('18, '19, '20, '21), ICML ('19, '20), ICLR ('22) and TMLR ([Expert reviewer](tab:https://jmlr.org/tmlr/expert-reviewers.html), received in '23).
+
+
+### Past Affiliations and Topics
+
+**Safety Analysis Team at DeepMind:**
+I was a founding member of DeepMind's Safety Analysis Team, led by [Pedro Ortega](tab:https://adaptiveagents.org/), where I worked from 2018 to 2022. The team was part of the Technical AGI Safety group and focused on ""understanding AI systems of today and the future"" and how to build them safely. My research was focused on analysis and interpretability of AI agents. The Universal AI Team partly grew out of the Safety Analysis Team, and many of the research questions carried over.
+
+**Bosch Center for AI:** Before joining DeepMind, I worked as a Research Scientist in the Deep Learning Perception group at the [Bosch Center for AI](tab:https://www.bosch-ai.com/) (in Renningen, Germany) on Bayesian deep learning and neural network compression, and the combination of both.
+
+**PhD:** 📥 [Download Thesis](tab:https://github.com/tgenewein/tgenewein.github.io/blob/master/files/PhD_Thesis.pdf) \
+My PhD years were well spent in the [Sensorimotor Learning and Decision-Making](tab:https://www.kyb.tuebingen.mpg.de/71685/sensorimotor-learning-decision-making) research group lead by [Daniel A. Braun](tab:https://www.uni-ulm.de/en/in/neuroinformatik/institut/hidden/d-braun/) at the Max Planck Institute for Intelligent Systems and the Max Planck Institute for Biological Cybernetics in Tübingen, Germany. Our group was interested in connecting sensorimotor learning with theoretical models for inference and decision-making - with a particular focus on bounded-rationality. My research has been focused on understanding how decision-makers can leverage the statistical structure of their environment in order to efficiently cope with uncertainty. I investigated theoretical links between bounded rationality and information theory (rate distortion theory), and structure learning and structure selection mechanisms in humans through virtual reality experiments. Find more on my [PhD research here](/phd-research/).
+
+**Undergrad:** I obtained my BSc and MSc in Telematics (now renamed into Information and Computer Engineering) at Graz University of Technology, Austria. My MSc Thesis was supervised by [Gerhard Neumann](tab:https://alr.iar.kit.edu/21_65.php) and [Wolfgang Maass](tab:https://igi-web.tugraz.at/people/maass/).
+
+### Content Usage
+Content on this site can be used for non-commercial purposes. Please be kind and attribute appropriately. If in doubt, just ask. I do not consent to any content on this site being used to train, fine-tune, test, or otherwise improve generative AI models. As of June 2024 no content on this site has been directly written by or edited with the assistance of an AI model. 
+
+### Disclaimer
+Content on this site may contain errors, and particularly the blog posts may express my opinions and speculative thought. Some of my views and opinions may change over time (as they should!). Do not quote me on decades-old blog posts. But do ask me whether my opinion has changed or not and why.
+
+### Contact
+Find my current institutional email address by looking into one of my recent publications, or use [tim܂genewein﹫gmail܂com](tab:mailto:type_it_dont_copy_paste@nospam.com) (retype it, don't copy&paste).",,,,,,2024-05-28T22:19:00+00:00,1,0.0,False,False,False
+86389,32624,gXzYEPIakqtKoBLudtGT,New Website - some content outdated / missing,new-website-some-content-missing,,2024-06-03T20:26:00+00:00,2024-06-03T20:28:11.322056+00:00,"[""research""]",True,False,False,"I have just migrated to a new platform for the website. Some content is still outdated or missing and will be added over the coming weeks. If you find any placeholder pages, check back in a bit.",,,,,,2024-06-03T20:26:00+00:00,1,0.0,False,False,False
+84843,32624,gFBZgAcoILeTetBirGdr,Research,research,,2024-05-28T22:12:00+00:00,2024-07-06T21:29:58.440534+00:00,[],True,False,True,"## Research
+
+For an up-to-date publication list see my [Google Scholar](tab:https://scholar.google.com/citations?user=peNTK9oAAAAJ&hl=en) profile, and all my research-related blog posts are tagged with [#research](/blog/?q=research). A short summary of my [current research topics](#current-research-topics) is below on this page. 
+
+**Keywords:** (amortized) Bayesian inference, meta-learning, AI safety, information theory, agent analysis, bounded rationality, rate-distortion theory.
+
+### Blog highlights
+For these topics I have written overview posts or series of posts on my blog:
+- Amortized algorithm mixtures via meta-training of sequential predictors [Coming summer '24]
+   - What is an amortized mixture predictor and how does it arise from meta-learning?
+   - Distilling general algorithms via meta-learning.
+   - In-context learning and prompt injections as features that arise from meta-training.
+- Speaking with clarity - telling AIs unambiguously what to do [Coming late summer '24]
+  - General AI and the underspecification problem. What are the limits of what we can ""tell"" AI systems?
+  - Markovian RL can only specify regular behavior.
+  - Goals vs. Rules - ethics requires going beyond goal-states to non-regular descriptions.
+- [My PhD research](/phd-research/)
+  - Information-optimal hierarchies for inference and decision making
+  - Bounded-rationality via lossy compression (rate-distortion theory).
+
+### Current research topics
+Two problems that I am very interested in are:
+- How to build AI systems that reliably take into account and express their uncertainty about their environment and about their goals when reasoning and acting?
+- How to accurately and efficiently tell AI systems *what* specific outcomes we want them to achieve, and *how* we do and do not want them to behave regardless of their specific goals?
+
+Both questions draw on a rich and complex discourse in philosophy, and more recently also in mathematics, psychology, AI research, and sociology. The first question mainly falls into the realms of epistemology, logic, and induction; with compelling formalizations via Bayesian inference, Solomonoff induction, and sequential decision-making. The second question is about the philosophy of language, ethics, and perhaps also about induction (with biases that follow social norms). Formalizations are less clear (thanks Wittgenstein), but the theory of computation, (algorithmic) information theory, and decision-theory seem like helpful tools in this context.
+
+More concretely I am currently exploring how implicit meta-training leads to amortized Bayesian inference and more general algorithm distillation, and how this may be the main (computational) mechanism behind in-context learning. How to drive this mechanism to reliably specify tasks and desired behavior to a pre-trained model is an open question, including reliable knowledge of when the system ""understands"" these instructions (meaning that the instructions are received without ambiguity). Related is the question of how to deal with ambiguity and epistemic uncertainty, and how to modify meta-learning schemes and bring in other approaches (such as active learning on the agent's side) to do so.
+
+### Past research
+In the context of AI Safety I have worked on analysis (gaining a computational understanding) and interpretability of current AI agents. The emphasis was on fundamental questions and methodology that are likely to be relevant for future, and more advanced AI systems. Work that came out of this research was heavily influenced by Pedro Ortega's forward-looking thinking and the members of the Safety Analysis team and includes a formal [understanding of meta-learning](tab:https://arxiv.org/pdf/1905.03030) via amortized Bayesian inference. We empirically confirmed this understanding in [prediction and decision-making tasks](tab:https://arxiv.org/abs/2010.11223) and (more recently) on [non-stationary](tab:https://arxiv.org/abs/2302.03067) distributions (""switching"" sources) as well as [general algorithmic sources](tab:https://arxiv.org/abs/2401.14953). Using this understanding, we formulated [alternative meta-learning schemes](tab:https://arxiv.org/pdf/2209.15618) that lead to amortized systems that can naturally deal with epistemic uncertainty. We [advocated for using causal interventions](tab:https://arxiv.org/pdf/2103.03938), rather than purely observational analysis of agent behavior; and formulated the [delusions problem](tab:https://arxiv.org/pdf/2110.10819) - a problem of causality when predictors are used for decision-making and falsely take their own actions as evidence for belief updates. Finally, we were interested in fundamental limitations of today's AI models, and found that formal language complexity (the Chomsky hierarchy) [is highly predictive](tab:https://arxiv.org/pdf/2207.02098) of what models (including transformers) can and cannot learn.
+
+During my time at Bosch I was working on neural network compression (reducing the computational footprint of neural nets) and Bayesian Deep learning. Interestingly, the prior in a Bayesian neural net can be used to favor weight configurations that are [easily](tab:https://openreview.net/forum?id=B1fysiAqK7) [compressible](tab:https://openreview.net/pdf?id=ry-TW-WAb). We also found that ensembles of networks produced superior epistemic [uncertainty estimates for active learning](tab:https://openaccess.thecvf.com/content_cvpr_2018/html/Beluch_The_Power_of_CVPR_2018_paper.html) compared to computationally cheaper methods.
+
+In my PhD I was interested in computational mechanisms that allow for structure learning, that is learning of higher-order statistical structure that is shared across a family of tasks and facilitates learning of new task instances. I investigated such learning in the human sensorimotor system (via virtual reality experiments) and formulated an information-theoretic optimality principle based on hierarchical lossy compression as a theoretical computational mechanism. Our lab was working on thermodynamic-inspired theories for bounded-rational decision-making and Bayesian models of human sensorimotor learning. See more on my [PhD research](/phd-research/) pages. \
+📥 [Download Thesis](https://github.com/tgenewein/tgenewein.github.io/blob/master/files/PhD_Thesis.pdf)
+",,,,,,2024-05-28T22:12:00+00:00,1,0.0,False,False,False
+84845,32624,gXNziGbFYUPsdIYLBTJi,PhD research,phd-research,,2024-05-28T22:15:00+00:00,2024-06-03T23:47:41.301385+00:00,"[""phd-research""]",True,False,True,"## PhD Research Topics
+
+Content has not yet been ported over from old website. Check back soon or download my thesis for now. \
+📥 [Download Thesis](https://github.com/tgenewein/tgenewein.github.io/blob/master/files/PhD_Thesis.pdf)",,,,,,2024-05-28T22:15:00+00:00,1,0.0,False,False,False
